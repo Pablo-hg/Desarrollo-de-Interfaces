@@ -1,0 +1,2 @@
+ESPAÑA: ,Asturias,Madrid,Cuenca,Barcelona,Albacete,Murcia,Sevilla,Tarragona,Toledo,Lugo,
+EEUU: ,California,Florida,Texas,Arizona,Nevada,Alaska,Virgina,Nebraska,Indiana,Alabama,
